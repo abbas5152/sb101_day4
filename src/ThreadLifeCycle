@@ -1,0 +1,8 @@
+Q2) Explain the Thread Life Cycle in Java with your
+own words.
+A2) * Thread Lifecycle
+         1. New : Thread is Made is same as Vehicle Manufactured.
+         2. Runnable :Thread is Ready to run the Run method,same as Yellow Light on signal.
+         3. Running:Thread is Running same ad vehicle is running on road.
+         4. Blocked: Thread Process is paused same as vehicle stop for Maintenance.
+         5. Dead/end state: Thread Process is Successfully Complete.
